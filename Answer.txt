@@ -1,0 +1,33 @@
+Parameter: Temperature Average
+  Average: 2.7400286944045913
+  Minimum: -8.4
+  Maximum: 10.9
+  Median: 2.8
+
+
+Parameter: Relative Humidity
+  Average: 87.90138674884437
+  Minimum: 61.0
+  Maximum: 100.0
+  Median: 89.0
+
+
+Parameter: Wind Speed
+  Average: 3.9007173601147778
+  Minimum: 0.4
+  Maximum: 10.3
+  Median: 3.7
+  
+
+Parameter: Precipitation Amount
+  Average: nan
+  Minimum: nan
+  Maximum: nan
+  Median: nan
+  
+Parameter: Pressure Average
+  Average: 1012.6341463414634
+  Minimum: 977.3
+  Maximum: 1032.6
+  Median: 1013.7
+  
